@@ -1,11 +1,10 @@
-# 💫 About Me:
-Hi there 👋 I'm **Bravin M. Ouma**  
-A **Software Engineer**, **Full Stack Developer**, and **IT Specialist** passionate about building scalable, efficient, and intelligent digital solutions.  
+# 💫 About Me
+Hi there 👋 I’m **Bravin M. Ouma**  
+A **IT Specialist** **Software Engineer**, and **Full Stack Developer**, passionate about building scalable, efficient, and intelligent digital systems.  
 
-🚀 Founder of **Teklini Technologies**, where I design and deploy modern web systems powered by clean architecture, cloud integration, and automation.  
-🌍 Specialized in **full stack web development**, **RESTful APIs**, **system deployment**, and **digital transformation**.  
-💡 I build applications that connect backend logic with seamless user experiences through technology, data, and design thinking.  
-🧠 Always exploring **AI integration**, **cloud hosting**, and **automation tools** to create smarter digital ecosystems.  
+🚀 Founder of **Teklini Technologies**, where I design and deploy modern web platforms powered by clean architecture, automation, and cloud technology.  
+🌍 Skilled in **frontend and backend engineering**, **RESTful APIs**, **cloud deployment**, and **digital transformation**.  
+💡 I’m passionate about **AI integration**, **cloud hosting**, and **automation tools** that power smarter digital ecosystems.  
 
 > “Code with purpose. Build with clarity. Innovate with empathy.”
 
@@ -29,6 +28,7 @@ A **Software Engineer**, **Full Stack Developer**, and **IT Specialist** passion
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend Development**  
@@ -56,12 +56,14 @@ A **Software Engineer**, **Full Stack Developer**, and **IT Specialist** passion
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![API Integration](https://img.shields.io/badge/API%20Integration-4B8BBE.svg?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-0078D7.svg?style=for-the-badge)
+![Agile Workflow](https://img.shields.io/badge/Agile%20Workflow-2496ED.svg?style=for-the-badge)
 
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=bmcouma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=bmcouma&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=bmcouma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=bmcouma&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bmcouma&theme=dark&hide_border=false&layout=compact)
 
 ---
@@ -85,9 +87,12 @@ A **Software Engineer**, **Full Stack Developer**, and **IT Specialist** passion
 
 [![](https://visitcount.itsvg.in/api?id=bmcouma&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+
 ## 💰 Support My Work
 If you like what I build, you can support my journey:  
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oumabravin3020@gmail.com)
 
 ---
+
 💡 *Building sustainable digital ecosystems through innovation, code, and technology.*
