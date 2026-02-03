@@ -1,10 +1,12 @@
 # 💫 About Me
-Hi there 👋 I’m **Bravin M. Ouma**  
-A **IT Specialist** **Software Engineer**, and **Full Stack Developer**, passionate about building scalable, efficient, and intelligent digital systems.  
+# Hi 👋, I'm Bravin M. Ouma
 
-🚀 Founder of **Teklini Technologies**, where I design and deploy modern web platforms powered by clean architecture, automation, and cloud technology.  
-🌍 Skilled in **frontend and backend engineering**, **RESTful APIs**, **cloud deployment**, and **digital transformation**.  
-💡 I’m passionate about **AI integration**, **cloud hosting**, and **automation tools** that power smarter digital ecosystems.  
+**Software Engineer | IT Specialist | AI Automation & Full-Stack Developer**
+
+Results-driven tech professional with 4+ years delivering scalable IT infrastructure, full-stack web apps, AI integrations, and QA projects. Proven in:
+- Reducing client system downtime by up to **40%** through proactive support & optimization
+- Achieving **95%+ data accuracy** in AI datasets (NLP/computer vision) at Sahara AI
+- Building efficient workflows and mentoring teams 
 
 > “Code with purpose. Build with clarity. Innovate with empathy.”
 
