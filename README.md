@@ -1,3 +1,128 @@
+ 💫 About Me
+
+# Hi 👋, I'm **Bravin M. Ouma**
+
+**Software Engineer | IT Specialist | AI Data Training Expert | Automation & Full-Stack Developer**
+
+I build and train intelligent systems.
+
+With 4+ years in tech, I operate at the intersection of **software engineering, AI data pipelines, and real-world system deployment**. I have worked with multiple AI-focused teams and platforms delivering **high-quality datasets, automation workflows, and production-ready applications**.
+
+I do not just write code.
+I make systems work reliably, at scale, and with measurable impact.
+
+---
+
+## 🚀 What I Actually Do
+
+* Train and validate **AI datasets** for NLP, computer vision, and multimodal systems
+* Deliver **95%+ annotation accuracy** across large-scale datasets
+* Design and build **full-stack applications** using modern frameworks
+* Automate workflows to reduce manual effort and improve efficiency
+* Provide **IT support and infrastructure optimization** that cuts downtime by up to 40%
+* Perform **QA, debugging, and system testing** for production environments
+
+---
+
+## 🧠 AI Data Training & Annotation Expertise
+
+This is where I stand out.
+
+* Data annotation for **text, image, and video datasets**
+* Video segmentation and action labeling
+* Prompt engineering and response evaluation
+* Data validation and quality assurance pipelines
+* Model feedback loops and output refinement
+* Tools experience: labeling platforms, QA systems, dataset review workflows
+
+I understand both sides
+**the data and the system consuming the data**
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/bravin-ouma)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/bmcouma)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel\&logoColor=white)](https://bmcouma.github.io/teklini-technologies-com/)
+
+---
+
+# 💻 Tech Stack
+
+### 🖥️ Full-Stack Development
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+### ⚙️ Backend & APIs
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23007EC6.svg?style=for-the-badge)
+
+### 🧠 AI, Data & Automation
+
+![Data Annotation](https://img.shields.io/badge/Data%20Annotation-FF6F00?style=for-the-badge)
+![AI Training](https://img.shields.io/badge/AI%20Training-6A1B9A?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00897B?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-3949AB?style=for-the-badge)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### 🚀 Deployment & DevOps
+
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/render-430098.svg?style=for-the-badge\&logo=render\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=bmcouma\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bmcouma\&theme=dark\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bmcouma\&theme=dark\&hide_border=false\&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=bmcouma\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+
+---
+
+## 🎯 What You Can Expect From Me
+
+* Clean, scalable, production-ready code
+* High-quality AI datasets with strict QA standards
+* Clear communication and fast turnaround
+* Solutions that focus on real business impact
+
+---
+
+## 💼 Open to Opportunities
+
+I am available for:
+
+* AI data training and annotation projects
+* Full-stack development work
+* IT support and system optimization
+* Automation and integration solutions
+
+---
+
+💡 *I build systems that work, scale, and deliver results.*
+
+
 # 💫 About Me
 # Hi 👋, I'm Bravin M. Ouma
 
