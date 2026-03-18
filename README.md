@@ -1,225 +1,203 @@
- 💫 About Me
+<!-- ======================= HEADER / HERO ======================= -->
 
-# Hi 👋, I'm **Bravin M. Ouma**
+<h1 align="center">Hi 👋, I'm Bravin M. Ouma</h1>
+<h3 align="center">
+AI Data Training Expert | Software Engineer | Full-Stack Developer | Automation Specialist
+</h3>
 
-**Software Engineer | IT Specialist | AI Data Training Expert | Automation & Full-Stack Developer**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;AI+Data+Training+%26+Annotation+Expert;Full-Stack+Developer+%7C+Automation+Engineer;Delivering+Scalable+%26+Reliable+Solutions" />
+</p>
 
-I build and train intelligent systems.
-
-With 4+ years in tech, I operate at the intersection of **software engineering, AI data pipelines, and real-world system deployment**. I have worked with multiple AI-focused teams and platforms delivering **high-quality datasets, automation workflows, and production-ready applications**.
-
-I do not just write code.
-I make systems work reliably, at scale, and with measurable impact.
-
----
-
-## 🚀 What I Actually Do
-
-* Train and validate **AI datasets** for NLP, computer vision, and multimodal systems
-* Deliver **95%+ annotation accuracy** across large-scale datasets
-* Design and build **full-stack applications** using modern frameworks
-* Automate workflows to reduce manual effort and improve efficiency
-* Provide **IT support and infrastructure optimization** that cuts downtime by up to 40%
-* Perform **QA, debugging, and system testing** for production environments
+<p align="center">
+  <a href="https://github.com/bmcouma">
+    <img src="https://komarev.com/ghpvc/?username=bmcouma&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+  </a>
+</p>
 
 ---
 
-## 🧠 AI Data Training & Annotation Expertise
+<!-- ======================= ABOUT ======================= -->
 
-This is where I stand out.
+## 💫 About Me
 
-* Data annotation for **text, image, and video datasets**
-* Video segmentation and action labeling
-* Prompt engineering and response evaluation
-* Data validation and quality assurance pipelines
-* Model feedback loops and output refinement
-* Tools experience: labeling platforms, QA systems, dataset review workflows
+I build and train intelligent systems that deliver real-world impact.
 
-I understand both sides
-**the data and the system consuming the data**
+With 4+ years in technology, I specialize in **AI data training, full-stack engineering, and system automation**. I have contributed to high-quality datasets and scalable applications used in production environments.
+
+I focus on:
+- Precision in AI datasets  
+- Reliability in system design  
+- Efficiency through automation  
+
+> *“Code with purpose. Build with clarity. Scale with intelligence.”*
+
+---
+
+<!-- ======================= WHAT I DO ======================= -->
+
+## 🚀 What I Do
+
+- Train and validate **AI datasets (NLP, CV, multimodal)**
+- Deliver **95%+ annotation accuracy** across large datasets  
+- Build **scalable full-stack applications**  
+- Develop **automation systems** that reduce manual workload  
+- Optimize IT systems and reduce downtime by up to **40%**  
+- Perform **QA testing, debugging, and validation**
 
 ---
 
-## 🌐 Connect With Me
+<!-- ======================= AI EXPERTISE ======================= -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/bravin-ouma)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/bmcouma)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel\&logoColor=white)](https://bmcouma.github.io/teklini-technologies-com/)
+## 🧠 AI & Data Expertise
+
+- Data annotation (text, image, video)
+- Video segmentation and labeling
+- Prompt engineering and evaluation
+- RLHF and model feedback optimization
+- Data cleaning, preprocessing, and validation pipelines
+- AI output quality assurance
+
+**Frameworks & Libraries**
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- Pandas
+- NumPy
 
 ---
+
+<!-- ======================= FEATURED PROJECTS ======================= -->
+
+## 🚀 Featured Projects
+
+### 🔹 AI Dataset Annotation System
+- Built scalable annotation workflows for NLP and CV datasets  
+- Achieved 95%+ accuracy with QA pipelines  
+- Tools: Python, Pandas, AI labeling platforms  
+
+---
+
+### 🔹 Full-Stack Web Platform
+- Developed responsive web applications with secure APIs  
+- Integrated backend services and optimized performance  
+- Stack: React, TypeScript, Django / Flask  
+
+---
+
+### 🔹 Automation & Workflow Engine
+- Automated repetitive tasks and reduced manual effort significantly  
+- Built scripts and integrations for real-time operations  
+- Stack: Python, APIs, JSON workflows  
+
+---
+
+### 🔹 IT Support & Infrastructure Optimization
+- Diagnosed and resolved system issues  
+- Reduced downtime by 40%  
+- Improved system reliability and performance  
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
 
 # 💻 Tech Stack
 
-### 🖥️ Full-Stack Development
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
-### ⚙️ Backend & APIs
-
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23007EC6.svg?style=for-the-badge)
-
-### 🧠 AI, Data & Automation
-
-![Data Annotation](https://img.shields.io/badge/Data%20Annotation-FF6F00?style=for-the-badge)
-![AI Training](https://img.shields.io/badge/AI%20Training-6A1B9A?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00897B?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-3949AB?style=for-the-badge)
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### 🚀 Deployment & DevOps
-
-![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/render-430098.svg?style=for-the-badge\&logo=render\&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=bmcouma\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=bmcouma\&theme=dark\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bmcouma\&theme=dark\&hide_border=false\&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=bmcouma\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
-
----
-
-## 🎯 What You Can Expect From Me
-
-* Clean, scalable, production-ready code
-* High-quality AI datasets with strict QA standards
-* Clear communication and fast turnaround
-* Solutions that focus on real business impact
-
----
-
-## 💼 Open to Opportunities
-
-I am available for:
-
-* AI data training and annotation projects
-* Full-stack development work
-* IT support and system optimization
-* Automation and integration solutions
-
----
-
-💡 *I build systems that work, scale, and deliver results.*
-
-
-# 💫 About Me
-# Hi 👋, I'm Bravin M. Ouma
-
-**Software Engineer | IT Specialist | AI Automation & Full-Stack Developer**
-
-Results-driven tech professional with 4+ years delivering scalable IT infrastructure, full-stack web apps, AI integrations, and QA projects. Proven in:
-- Reducing client system downtime by up to **40%** through proactive support & optimization
-- Achieving **95%+ data accuracy** in AI datasets (NLP/computer vision) at Sahara AI
-- Building efficient workflows and mentoring teams 
-
-> “Code with purpose. Build with clarity. Innovate with empathy.”
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bravin-ouma)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/bmcouma)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bravinmouma)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bmcouma)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bmcouma)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bmc_ouma)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Bravin-Ouma)
-
----
-
-# 💻 Tech Stack
-
-**Frontend Development**  
+## 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vanilla JS](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend Development**  
+---
+
+## ⚙️ Backend & APIs
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23007EC6.svg?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node JS](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express JS](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
-**Database Systems**  
+---
+
+## 🧠 AI / ML
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+## 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Version Control & Deployment**  
-![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+---
+
+## 🚀 Deployment Platforms
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/render-430098.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/railway-0B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
-
-**Tools & Workflow**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![API Integration](https://img.shields.io/badge/API%20Integration-4B8BBE.svg?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-0078D7.svg?style=for-the-badge)
-![Agile Workflow](https://img.shields.io/badge/Agile%20Workflow-2496ED.svg?style=for-the-badge)
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-1D9FD7.svg?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
+
+<!-- ======================= STATS ======================= -->
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=bmcouma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=bmcouma&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bmcouma&theme=dark&hide_border=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bmcouma&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmcouma&theme=tokyonight" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bmcouma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bmcouma/bmcouma/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-### ✍️ Developer Quote
-> “Technology should simplify life, not complicate it.”
+## 🏆 Achievements
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=bmcouma&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bmcouma&theme=radical&no-frame=true&no-bg=true" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=bmcouma&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🎯 What You Can Expect
+
+- Scalable and production-ready systems  
+- High-accuracy AI datasets  
+- Clean, maintainable code  
+- Strong debugging and optimization  
+- Fast and reliable delivery  
 
 ---
 
-## 💰 Support My Work
-If you like what I build, you can support my journey:  
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oumabravin3020@gmail.com)
+## 💼 Open to Work
+
+- AI Data Training & Annotation  
+- Full-Stack Development  
+- Automation & AI Integration  
+- IT Support & System Optimization  
 
 ---
 
-💡 *Building sustainable digital ecosystems through innovation, code, and technology.*
+## 💡 Philosophy
+
+> Building intelligent systems that scale, solve real problems, and create impact.
+
+---
