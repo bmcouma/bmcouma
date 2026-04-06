@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Bravin M. Ouma</h1>
 <h3 align="center">
-IT Pro | Full-Stack Software Developer | AI Data Training & Automation Specialist
+IT Professional | Full-Stack Software Developer | Automation & Data Specialist
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;AI+Data+Training+%26+Annotation+Expert;Full-Stack+Developer+%7C+Automation+Engineer;Delivering+Scalable+%26+Reliable+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Reliable+Systems;Full-Stack+Applications+%26+Automation;Delivering+Scalable+Solutions" />
 </p>
 
 <p align="center">
@@ -15,82 +15,64 @@ IT Pro | Full-Stack Software Developer | AI Data Training & Automation Specialis
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/bravin-ouma/" target="_blank">LinkedIn</a> • 
+  <a href="https://bmcouma.github.io/teklini-technologies-com/" target="_blank">Teklini Technologies</a> • 
+  <a href="https://wa.link/icn8vi" target="_blank">WhatsApp DM</a>
+</p>
+
 ---
 
-<!-- ======================= ABOUT ======================= -->
+## 🙋‍♂️ About Me
 
-## 💫 About Me
+I build **robust digital systems** that solve real problems.  
 
-I build and deliver **intelligent systems** that solve real problems and create measurable impact.
-
-With 4+ years in technology, I specialize in **AI data training, full-stack development, and automation workflows**. I deliver **production-ready systems** that are reliable, scalable, and optimized.
+With 4+ years of experience, I focus on **IT systems, full-stack applications, and automation workflows**. Everything I deliver is **production-ready, reliable, and maintainable**.  
 
 I focus on:
-- Precision in AI datasets  
-- Robust system architecture  
-- Efficiency through automation  
+- Efficient system architecture  
+- Scalable web & backend solutions  
+- Automation for operational efficiency  
+- Ensuring uptime and reliability  
 
-> *“Code with purpose. Build with clarity. Scale with intelligence.”*
-
----
-
-<!-- ======================= WHAT I DO ======================= -->
-
-## 🚀 What I Do
-
-- Train and validate **AI datasets (NLP, CV, multimodal)**  
-- Deliver **95%+ annotation accuracy** with QA pipelines  
-- Build **scalable full-stack applications**  
-- Develop **automation systems** to reduce manual workload  
-- Optimize IT infrastructure and reduce downtime by up to **40%**  
-- Perform **QA testing, debugging, and system validation**  
+> *“Build systems that work. Code with clarity. Deliver with impact.”*
 
 ---
 
-<!-- ======================= AI & DATA EXPERTISE ======================= -->
+## 💪 What I Do
 
-## 🧠 AI & Data Expertise
-
-- Data annotation (text, image, video)  
-- Video segmentation and labeling  
-- Prompt engineering & evaluation  
-- RLHF & model feedback optimization  
-- Data cleaning, preprocessing, and validation pipelines  
-- AI output quality assurance  
-
-**Frameworks & Libraries**
-- PyTorch, TensorFlow, Scikit-learn  
-- Pandas, NumPy  
-- OpenCV, Hugging Face Transformers  
-- Label Studio, Supervisely  
+- Develop **full-stack web & mobile applications**  
+- Optimize **IT infrastructure and system performance**  
+- Automate repetitive tasks for operational efficiency  
+- Maintain high reliability in production environments  
+- QA, debug, and validate systems end-to-end  
+- Deliver projects with **speed and precision**  
 
 ---
 
-<!-- ======================= FEATURED PROJECTS ======================= -->
+## 🖥️ Featured Projects
 
-## 🚀 Featured Projects
+### 🔹 Full-Stack Web Platforms
+- Developed secure, responsive applications for businesses  
+- Integrated backend services with optimized databases  
+- Tools: React, TypeScript, Django / Flask, PostgreSQL  
 
-### 🔹 AI Dataset Annotation System
-- Scalable annotation workflows for NLP & CV datasets  
-- Achieved 95%+ accuracy with QA pipelines  
-- Tools: Python, Pandas, Label Studio, Supervisely  
-
-### 🔹 Full-Stack Web Platform
-- Responsive web apps with secure APIs and optimized backend  
-- Stack: React, TypeScript, Django / Flask, PostgreSQL  
-
-### 🔹 Automation & Workflow Engine
-- Automated repetitive tasks, reducing manual effort by 70%  
-- Stack: Python, REST APIs, JSON workflows  
+### 🔹 Automation & Workflow Systems
+- Built scripts and services to automate repetitive tasks  
+- Reduced manual workload by 60–70%  
+- Tools: Python, REST APIs, JSON workflows  
 
 ### 🔹 IT Support & Infrastructure Optimization
-- Diagnosed and resolved critical system issues  
+- Diagnosed and resolved production system issues  
 - Reduced downtime by 40%  
-- Optimized infrastructure for production reliability  
+- Improved system reliability and maintenance processes  
+
+### 🔹 Data & System Tools
+- Managed structured datasets for analytics and reporting  
+- Built pipelines for consistent, reliable data processing  
+- Tools: Pandas, NumPy, Excel, custom Python scripts  
 
 ---
-
-<!-- ======================= TECH STACK ======================= -->
 
 ## 💻 Tech Stack
 
@@ -112,11 +94,6 @@ I focus on:
 ![Express JS](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🧠 AI / ML
-![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -131,8 +108,6 @@ I focus on:
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
-
-<!-- ======================= GITHUB STATS ======================= -->
 
 ## 📊 GitHub Stats
 
@@ -161,23 +136,28 @@ I focus on:
 
 ## 🎯 What You Can Expect
 
-- Production-ready, scalable systems  
-- High-accuracy AI datasets  
-- Clean, maintainable code  
-- Strong debugging & optimization  
-- Fast and reliable delivery  
+- Production-ready, reliable systems  
+- Clean, maintainable, and scalable code  
+- Automated workflows for operational efficiency  
+- Optimized IT & system performance  
+- Fast, precise delivery on projects  
 
 ---
 
-## 💼 Open to Work
+## 💼 Open to Projects & Freelance
 
-- AI Data Training & Annotation  
-- Full-Stack Development  
-- Automation & AI Integration  
-- IT Support & System Optimization  
+I work with businesses and individuals on **full-stack, automation, and IT optimization projects**.  
+
+Reach out for:  
+- Full-Stack Web & Mobile Development  
+- IT Systems Optimization  
+- Automation & Workflow Solutions  
+- Data Management & Processing  
+
+📩 Contact: [teklinitechnologies@gmail.com](mailto:teklinitechnologies@gmail.com) • [WhatsApp DM](https://wa.link/icn8vi)  
 
 ---
 
 ## 💡 Philosophy
 
-> Building intelligent systems that **scale, solve real problems, and create impact.**
+> Build systems that **work reliably, scale efficiently, and solve real-world problems**.
