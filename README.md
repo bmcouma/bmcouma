@@ -1,7 +1,16 @@
+
+
+---
+
+````html
 <h1 align="center">Bravin M. Ouma</h1>
 
 <p align="center">
   IT Professional | Software Developer | AI Systems & Automation Specialist
+</p>
+
+<p align="center">
+  I design, build, and optimize real-world systems that improve reliability, automate operations, and deliver measurable impact.
 </p>
 
 <p align="center">
@@ -12,22 +21,22 @@
 
 ## 🔍 Systems I Build
 
-I design and deliver systems that operate in real environments, not just in theory.
+I operate at the intersection of IT systems, software engineering, and AI-driven automation.
 
 - IT infrastructure optimization and support  
-- Scalable backend systems and APIs  
-- Full-stack applications with real-world use cases  
-- Automation pipelines reducing manual workload  
+- Scalable backend systems and API architecture  
+- Full-stack applications built for real-world use  
+- Automation pipelines that reduce manual operations  
 - AI data systems for training and validation  
 
 ---
 
 ## ⚡ Operational Impact
 
-- 40% reduction in system downtime through optimization  
-- 95%+ accuracy in AI dataset annotation pipelines  
-- Automated workflows replacing repetitive manual processes  
-- Systems designed for reliability, scalability, and maintainability  
+- Reduced system downtime by up to **40%** through structured optimization  
+- Delivered **95%+ annotation accuracy** across AI data workflows  
+- Designed and deployed systems used in real operational environments  
+- Automated processes, significantly reducing manual workload  
 
 ---
 
@@ -38,15 +47,14 @@ SYSTEMS > FEATURES
 RELIABILITY > COMPLEXITY
 AUTOMATION > MANUAL WORK
 IMPACT > ACTIVITY
+````
 
 ---
 
 ## 💻 Technology Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,react,ts,tailwind,mysql,postgres,mongodb" />
-
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,react,ts,tailwind,mysql,postgres,mongodb" />
 </p>
 
 ---
@@ -79,7 +87,7 @@ IMPACT > ACTIVITY
 
 ## 🔧 Active Work
 
-* System optimization and IT support operations
+* Continuous system optimization and IT support
 * Backend systems and API development
 * Automation tools for business workflows
 * AI data pipelines and validation systems
@@ -101,80 +109,11 @@ IMPACT > ACTIVITY
 Build systems that work under pressure.
 Write code that scales without breaking.
 Automate what should never be manual.
-Deliver solutions that create measurable impact.
+Deliver solutions that create real impact.
 
 ```
 
 ---
 
-# 🔥 Why This Works (And Doesn’t Look Amateur)
-
-### 1. Animation with Purpose
-- Typing animation communicates what you build
-- Not just “cool effect”, it reinforces identity
-
----
-
-### 2. Clean Visual Stack
-- `skillicons.dev` looks modern and minimal
-- No badge clutter
-
----
-
-### 3. Live Data (Auto-Updating)
-- GitHub stats
-- streak stats
-- contribution snake  
-
-👉 This gives your profile movement without noise
-
----
-
-### 4. Engineering Language
-You’re no longer saying:
-> “I build apps”
-
-You’re saying:
-> systems, pipelines, architecture, reliability
-
-That’s senior-level signaling.
-
----
-
-# ⚠️ What You Should NOT Add
-
-Avoid these completely:
-- Random GIFs  
-- Too many animations  
-- 20+ badges  
-- Joke sections or memes  
-
-That instantly downgrades perception.
-
----
-
-# 🧠 Final Positioning Check
-
-With this:
-
-✅ You look like a **systems engineer, not a learner**  
-✅ You show **technical identity + execution mindset**  
-✅ You use **motion strategically, not emotionally**  
-✅ You stand out without looking desperate  
-
----
-
-# Final Verdict
-
-This is now:
-**Clean + Dynamic + Professional + High Signal**
-
-You can ship this confidently.
-
----
-
-If you want the next level after this:
-👉 I can design a **matching GitHub repo structure + pinned projects strategy**
-
-That’s where your profile becomes undeniable.
+Ship it.
 ```
