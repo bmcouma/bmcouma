@@ -53,25 +53,29 @@ I focus on:
 ## 🖥️ Featured Projects
 
 ### 🔹 Full-Stack Web Platforms
-- Developed secure, responsive applications for businesses  
-- Integrated backend services with optimized databases  
-- Tools: React, TypeScript, Django, Flask, PostgreSQL, MySQL  
+- Developed **secure, responsive applications** for businesses and organizations  
+- Integrated **backend services** with optimized databases for reliability and speed  
+- Tools & Stack: React, TypeScript, Django, Flask, PostgreSQL, MySQL, REST APIs  
 
 ### 🔹 Automation & Workflow Systems
-- Built scripts and services to automate repetitive tasks  
-- Reduced manual workload by 60–70%  
-- Tools: Python, REST APIs, JSON workflows, Celery, RabbitMQ  
+- Built scripts and services to **automate repetitive tasks**, saving 60–70% manual effort  
+- Implemented **task queues and scheduling** for real-time operations  
+- Tools & Stack: Python, REST APIs, JSON workflows, Celery, RabbitMQ  
 
 ### 🔹 IT Support & Infrastructure Optimization
-- Diagnosed and resolved production system issues  
-- Reduced downtime by 40%  
-- Improved system reliability and maintenance processes  
+- Diagnosed and resolved **production system issues** across networks and servers  
+- Reduced downtime by **40%** and improved reliability  
+- Streamlined maintenance processes for long-term scalability  
 
 ### 🔹 Data & System Tools
 - Managed structured datasets for analytics and reporting  
-- Built pipelines for consistent, reliable data processing  
-- Tools: Pandas, NumPy, Python scripts, Excel, CSV, JSON  
+- Built pipelines for **consistent, reliable data processing**  
+- Tools & Stack: Pandas, NumPy, Python scripts, Excel, CSV, JSON  
 
+### 🔹 AI & Data Training Systems
+- Designed **annotation workflows** for text, image, and video datasets  
+- Achieved **95%+ labeling accuracy** with QA pipelines  
+- Tools & Stack: Python, Pandas, labeling platforms, data validation scripts  
 ---
 
 ## 💻 Tech Stack
