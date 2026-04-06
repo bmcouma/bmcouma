@@ -1,6 +1,3 @@
-
-
-
 ```markdown
 # Hi 👋, I'm Bravin M. Ouma
 
@@ -16,20 +13,20 @@ I design, build, and optimize systems that reduce downtime, automate repetitive 
 
 ## 🔧 What I Build
 
-- **IT Infrastructure & Operations** — Diagnostics, optimization, and uptime improvement
-- **Scalable Backend Systems** — Robust APIs and architectures that grow with demand
-- **AI Data Pipelines** — High-accuracy annotation, validation, and training workflows
-- **Automation Solutions** — End-to-end pipelines that eliminate manual processes
-- **Full-Stack Applications** — Practical tools built for real users and operational environments
+- **IT Infrastructure & Operations** — Diagnostics, optimization, and uptime improvement  
+- **Scalable Backend Systems** — Robust APIs and architectures that grow with demand  
+- **AI Data Pipelines** — High-accuracy annotation, validation, and training workflows  
+- **Automation Solutions** — End-to-end pipelines that eliminate manual processes  
+- **Full-Stack Applications** — Practical tools built for real users and operational environments  
 
 ---
 
 ## 📈 Proven Impact
 
-- Reduced system downtime by up to **40%** through proactive optimization
-- Achieved **95%+ accuracy** in AI data annotation and validation workflows
-- Designed and deployed systems actively used in production environments
-- Significantly cut manual workload through intelligent automation
+- Reduced system downtime by up to **40%** through proactive optimization  
+- Achieved **95%+ accuracy** in AI data annotation and validation workflows  
+- Designed and deployed systems actively used in production environments  
+- Significantly cut manual workload through intelligent automation  
 
 ---
 
@@ -50,25 +47,18 @@ Scalability > Short-term Fixes
 Python • JavaScript • TypeScript • Flutter • SQL  
 
 **Specialties**  
-Backend Architecture • REST/GraphQL APIs • AI Data Systems • Docker • Automation Pipelines • IT Infrastructure • M-Pesa & Payment Integrations
+Backend Architecture • REST/GraphQL APIs • AI Data Systems • Docker • Automation Pipelines • IT Infrastructure • M-Pesa & Payment Integrations  
 
 **Currently Exploring**  
-Advanced AI system integration and cloud-native operations
-
----
-
-## 📊 GitHub Stats
-
-<!-- Add your favorite stats cards here. Example: -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bmcouma&show_icons=true&theme=radical) -->
+Advanced AI system integration and cloud-native operations  
 
 ---
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Bravin Ouma](https://www.linkedin.com/in/bravin-ouma/)
-- **Instagram**: [@bmcouma](https://www.instagram.com/bmcouma/)
-- **Email**: Reach out via GitHub or LinkedIn
+- **LinkedIn**: [Bravin Ouma](https://www.linkedin.com/in/bravin-ouma/)  
+- **Instagram**: [@bmcouma](https://www.instagram.com/bmcouma/)  
+- **Email**: Reach out via GitHub or LinkedIn  
 
 ---
 
@@ -76,20 +66,7 @@ Advanced AI system integration and cloud-native operations
 
 ---
 
-**Founder @ [Teklini Technologies](https://github.com/bmcouma)**  
-Based in Nairobi, Kenya 🇰🇪
+**Based in Nairobi, Kenya 🇰🇪**
 ```
 
-### Quick Tips Before You Paste:
-1. Replace the placeholder stats card with real ones (use https://github.com/anuraghazra/github-readme-stats or similar).
-2. Add a profile picture or banner at the top if you want (centered image).
-3. The typing SVG link still works great — feel free to tweak the `lines=` part.
-4. If you have pinned repositories or specific projects, add a "Featured Projects" section with links.
-
-Would you like me to:
-- Make a more **minimal/clean** version?
-- Add a **Featured Projects** section?
-- Make it more **bold/creative** with icons or colors?
-- Include specific tech badges?
-
-Just tell me what direction you prefer and I’ll refine it instantly.
+Copy and paste the entire block above directly into your `README.md`. No placeholders left. Ready to ship.
