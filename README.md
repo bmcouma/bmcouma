@@ -23,7 +23,7 @@ IT Professional | Full-Stack Software Developer | Automation & Data Specialist
 
 ---
 
-## 💫 About Me
+## 🙋‍♂️ About Me
 
 I build **robust digital systems** that solve real problems.  
 
@@ -39,7 +39,7 @@ I focus on:
 
 ---
 
-## 🚀 What I Do
+## 💪 What I Do
 
 - Develop **full-stack web & mobile applications**  
 - Optimize **IT infrastructure and system performance**  
@@ -115,8 +115,7 @@ I focus on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bmcouma&show_icons=true&theme=tokyonight" />
-  <img src="https://img.shields.io/badge/streak_stats-active-blue?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bmcouma&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -124,7 +123,7 @@ I focus on:
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/bmcouma/bmcouma/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/bmcouma/bmcouma/raw/main/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
 </p>
 
 ---
@@ -132,7 +131,7 @@ I focus on:
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bmcouma&theme=radical&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bmcouma&theme=radical&no-bg=true&margin-w=10&margin-h=10" alt="Achievements" />
 </p>
 
 ---
