@@ -52,7 +52,11 @@ I design, build, and optimize systems that improve reliability, automate operati
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bmcouma/bmcouma/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bmcouma&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmcouma&theme=tokyonight" />
 </p>
 
 ---
