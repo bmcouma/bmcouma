@@ -23,7 +23,7 @@ IT Professional | Full-Stack Software Developer | Automation & Data Specialist
 
 ---
 
-## 🙋‍♂️ About Me
+## 💫 About Me
 
 I build **robust digital systems** that solve real problems.  
 
@@ -39,7 +39,7 @@ I focus on:
 
 ---
 
-## 💪 What I Do
+## 🚀 What I Do
 
 - Develop **full-stack web & mobile applications**  
 - Optimize **IT infrastructure and system performance**  
@@ -55,12 +55,12 @@ I focus on:
 ### 🔹 Full-Stack Web Platforms
 - Developed secure, responsive applications for businesses  
 - Integrated backend services with optimized databases  
-- Tools: React, TypeScript, Django / Flask, PostgreSQL  
+- Tools: React, TypeScript, Django, Flask, PostgreSQL, MySQL  
 
 ### 🔹 Automation & Workflow Systems
 - Built scripts and services to automate repetitive tasks  
 - Reduced manual workload by 60–70%  
-- Tools: Python, REST APIs, JSON workflows  
+- Tools: Python, REST APIs, JSON workflows, Celery, RabbitMQ  
 
 ### 🔹 IT Support & Infrastructure Optimization
 - Diagnosed and resolved production system issues  
@@ -70,7 +70,7 @@ I focus on:
 ### 🔹 Data & System Tools
 - Managed structured datasets for analytics and reporting  
 - Built pipelines for consistent, reliable data processing  
-- Tools: Pandas, NumPy, Excel, custom Python scripts  
+- Tools: Pandas, NumPy, Python scripts, Excel, CSV, JSON  
 
 ---
 
@@ -79,25 +79,28 @@ I focus on:
 ### 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vue JS](https://img.shields.io/badge/vue.js-35495E.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend & REST Frameworks
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node JS](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express JS](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/django_rest_framework-092E20.svg?style=for-the-badge)
+![Celery](https://img.shields.io/badge/celery-2A3F54.svg?style=for-the-badge)
+![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🚀 Deployment Platforms
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -113,7 +116,7 @@ I focus on:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bmcouma&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmcouma&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/streak_stats-active-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -146,13 +149,13 @@ I focus on:
 
 ## 💼 Open to Projects & Freelance
 
-I work with businesses and individuals on **full-stack, automation, and IT optimization projects**.  
+I collaborate with businesses and individuals on **full-stack, automation, and IT optimization projects**.  
 
 Reach out for:  
 - Full-Stack Web & Mobile Development  
-- IT Systems Optimization  
+- Python/Django REST APIs & Backend Systems  
 - Automation & Workflow Solutions  
-- Data Management & Processing  
+- IT Infrastructure Optimization  
 
 📩 Contact: [teklinitechnologies@gmail.com](mailto:teklinitechnologies@gmail.com) • [WhatsApp DM](https://wa.link/icn8vi)  
 
