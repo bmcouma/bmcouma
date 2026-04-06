@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Bravin M. Ouma</h1>
 <h3 align="center">
-AI Data Training Expert | Software Engineer | Full-Stack Developer | Automation Specialist
+IT Pro| Full-Stack Software Developer | AI Data Training & Automation Specialist
 </h3>
 
 <p align="center">
