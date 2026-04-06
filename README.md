@@ -120,14 +120,14 @@ I focus on:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bmcouma&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
+</p>>
 
 ---
 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/bmcouma/bmcouma/raw/main/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
+  <img src="assets/contribution-snake.svg" alt="Contribution Graph" />
 </p>
 
 ---
