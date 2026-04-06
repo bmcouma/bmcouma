@@ -1,30 +1,3 @@
-I understand exactly what you’re aiming for.
-
-You don’t just want a README.
-You want something that **feels alive, dynamic, and engineered**, the kind of profile that makes someone stop scrolling and think, *this person builds serious systems*.
-
-But here’s the reality you need to accept before we design this:
-
-👉 Too many animations = junior energy
-👉 Too many badges = noise
-👉 Too many gimmicks = distraction
-
-A strong developer profile uses **controlled motion, meaningful visuals, and smart automation**, not decoration.
-
-So we’ll do this properly.
-
----
-
-# ✅ HIGH-END DYNAMIC GITHUB README (ENGINEERED VERSION)
-
-This version includes:
-
-* subtle animation
-* auto-updating elements
-* clean visual hierarchy
-* zero noise
-
----
 
 ````html
 <h1 align="center">Bravin M. Ouma</h1>
