@@ -1,3 +1,7 @@
+
+
+
+```markdown
 # Hi 👋, I'm Bravin M. Ouma
 
 <p align="center">
@@ -36,3 +40,56 @@ Reliability > Flashy Features
 Automation > Manual Effort
 Impact > Activity
 Scalability > Short-term Fixes
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks**  
+Python • JavaScript • TypeScript • Flutter • SQL  
+
+**Specialties**  
+Backend Architecture • REST/GraphQL APIs • AI Data Systems • Docker • Automation Pipelines • IT Infrastructure • M-Pesa & Payment Integrations
+
+**Currently Exploring**  
+Advanced AI system integration and cloud-native operations
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Add your favorite stats cards here. Example: -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bmcouma&show_icons=true&theme=radical) -->
+
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn**: [Bravin Ouma](https://www.linkedin.com/in/bravin-ouma/)
+- **Instagram**: [@bmcouma](https://www.instagram.com/bmcouma/)
+- **Email**: Reach out via GitHub or LinkedIn
+
+---
+
+> *Build systems that work under pressure. Write code that scales. Automate what should never be manual.*
+
+---
+
+**Founder @ [Teklini Technologies](https://github.com/bmcouma)**  
+Based in Nairobi, Kenya 🇰🇪
+```
+
+### Quick Tips Before You Paste:
+1. Replace the placeholder stats card with real ones (use https://github.com/anuraghazra/github-readme-stats or similar).
+2. Add a profile picture or banner at the top if you want (centered image).
+3. The typing SVG link still works great — feel free to tweak the `lines=` part.
+4. If you have pinned repositories or specific projects, add a "Featured Projects" section with links.
+
+Would you like me to:
+- Make a more **minimal/clean** version?
+- Add a **Featured Projects** section?
+- Make it more **bold/creative** with icons or colors?
+- Include specific tech badges?
+
+Just tell me what direction you prefer and I’ll refine it instantly.
