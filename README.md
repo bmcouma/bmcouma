@@ -1,72 +1,105 @@
-```markdown
-# Hi 👋, I'm Bravin M. Ouma
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Reliable+IT+Systems;Crafting+Scalable+Backend+Architectures;Automating+Real-World+Operations;Delivering+AI-Driven+Solutions" alt="Typing SVG" />
-</p>
+# Bravin M. Ouma
 
 **IT Professional | Software Developer | AI Systems & Automation Specialist**
 
-I design, build, and optimize systems that reduce downtime, automate repetitive work, and deliver measurable business impact.
+I design, build, and optimize systems that improve reliability, automate operations, and deliver measurable impact in real environments.
 
 ---
 
-## 🔧 What I Build
+## What I Do
 
-- **IT Infrastructure & Operations** — Diagnostics, optimization, and uptime improvement  
-- **Scalable Backend Systems** — Robust APIs and architectures that grow with demand  
-- **AI Data Pipelines** — High-accuracy annotation, validation, and training workflows  
-- **Automation Solutions** — End-to-end pipelines that eliminate manual processes  
-- **Full-Stack Applications** — Practical tools built for real users and operational environments  
-
----
-
-## 📈 Proven Impact
-
-- Reduced system downtime by up to **40%** through proactive optimization  
-- Achieved **95%+ accuracy** in AI data annotation and validation workflows  
-- Designed and deployed systems actively used in production environments  
-- Significantly cut manual workload through intelligent automation  
+- Optimize and support IT systems and infrastructure  
+- Design and develop scalable backend systems and APIs  
+- Build full-stack applications for real-world use  
+- Develop automation workflows to reduce manual operations  
+- Train and validate AI datasets across NLP and computer vision  
 
 ---
 
-## 💡 Engineering Philosophy
+## Impact
 
-```txt
-Reliability > Flashy Features
-Automation > Manual Effort
-Impact > Activity
-Scalability > Short-term Fixes
-```
+- Reduced system downtime by up to 40 percent through structured optimization  
+- Delivered over 95 percent accuracy in AI data annotation workflows  
+- Built and deployed systems used in real operational environments  
+- Automated processes that significantly reduced manual workload  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## IT & Systems
 
-**Languages & Frameworks**  
-Python • JavaScript • TypeScript • Flutter • SQL  
-
-**Specialties**  
-Backend Architecture • REST/GraphQL APIs • AI Data Systems • Docker • Automation Pipelines • IT Infrastructure • M-Pesa & Payment Integrations  
-
-**Currently Exploring**  
-Advanced AI system integration and cloud-native operations  
+- System troubleshooting and technical support  
+- Infrastructure optimization and performance tuning  
+- Software installation, configuration, and maintenance  
+- Monitoring, diagnostics, and issue resolution  
+- Reliability-focused system improvements  
 
 ---
 
-## 📫 Let's Connect
+## Software Development
 
-- **LinkedIn**: [Bravin Ouma](https://www.linkedin.com/in/bravin-ouma/)  
-- **Instagram**: [@bmcouma](https://www.instagram.com/bmcouma/)  
-- **Email**: Reach out via GitHub or LinkedIn  
+- Backend systems and API architecture  
+- Full-stack application development  
+- Database design and management  
+- System integration and performance optimization  
+- Clean, scalable, and maintainable code  
+
+**Stack**  
+Python, Django, Flask, FastAPI, Node.js  
+React, TypeScript, JavaScript, Tailwind CSS  
 
 ---
 
-> *Build systems that work under pressure. Write code that scales. Automate what should never be manual.*
+## AI & Data Systems
+
+- Data annotation (text, image, video)  
+- Prompt engineering and evaluation  
+- RLHF and model feedback optimization  
+- Data preprocessing and validation pipelines  
+- AI output quality assurance  
+
+**Tools**  
+PyTorch, TensorFlow, Pandas, NumPy, Scikit-learn  
 
 ---
 
-**Based in Nairobi, Kenya 🇰🇪**
-```
+## Systems Built
 
-Copy and paste the entire block above directly into your `README.md`. No placeholders left. Ready to ship.
+- IT system optimization and reliability improvements  
+- Scalable web applications with secure backend services  
+- AI dataset annotation and validation pipelines  
+- Automation systems for workflow efficiency  
+
+---
+
+## Business Focus
+
+I build systems that solve real operational problems.
+
+- Improve system uptime and reliability  
+- Automate repetitive business processes  
+- Develop scalable digital solutions  
+- Turn data into functional AI systems  
+
+---
+
+## Active Work
+
+- System optimization and IT support operations  
+- Backend systems and API development  
+- Automation tools for business workflows  
+- AI data pipelines and validation systems  
+
+---
+
+## Contact
+
+Email: teklinitechnologies@gmail.com  
+LinkedIn: https://www.linkedin.com/in/bravin-ouma/  
+
+---
+
+## Philosophy
+
+Reliable systems first.  
+Clean code always.  
+Solutions that deliver real impact.
