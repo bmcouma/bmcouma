@@ -115,19 +115,18 @@ I focus on:
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bmcouma&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>>
+  <img src="https://github-readme-stats.vercel.app/api?username=bmcouma&show_icons=true&theme=radical&hide_border=true" alt="Bravin's GitHub Stats" />
+</p>
 
 ---
 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="assets/contribution-snake.svg" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmcouma&theme=radical&hide_border=true" alt="Bravin's Contribution Streak" />
 </p>
 
 ---
@@ -135,7 +134,7 @@ I focus on:
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bmcouma&theme=radical&no-bg=true&margin-w=10&margin-h=10" alt="Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bmcouma&theme=radical&no-frame=true&margin-w=15" alt="Bravin's GitHub Trophies" />
 </p>
 
 ---
