@@ -115,10 +115,11 @@ I focus on:
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bmcouma&show_icons=true&theme=radical&hide_border=true" alt="Bravin's GitHub Stats" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=bmcouma&show_icons=true&theme=radical&hide_border=true" alt="Bravin's GitHub Stats" />
 </p>
 
 ---
@@ -126,7 +127,7 @@ I focus on:
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmcouma&theme=radical&hide_border=true" alt="Bravin's Contribution Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bmcouma&theme=radical&hide_border=true" alt="Bravin's Contribution Streak" />
 </p>
 
 ---
@@ -136,8 +137,6 @@ I focus on:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bmcouma&theme=radical&no-frame=true&margin-w=15" alt="Bravin's GitHub Trophies" />
 </p>
-
----
 
 ## 🎯 What You Can Expect
 
