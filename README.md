@@ -4,6 +4,10 @@
 
 I design, build, and optimize systems that improve reliability, automate operations, and deliver measurable impact in real environments.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=00C2FF&center=true&vCenter=true&width=500&lines=Optimizing+IT+Systems;Building+Scalable+Applications;Automating+Workflows;Delivering+AI+Solutions" />
+</p>
+
 ---
 
 ## What I Do
@@ -18,83 +22,63 @@ I design, build, and optimize systems that improve reliability, automate operati
 
 ## Impact
 
-- Reduced system downtime by up to 40 percent through structured optimization  
-- Delivered over 95 percent accuracy in AI data annotation workflows  
-- Built and deployed systems used in real operational environments  
-- Automated processes that significantly reduced manual workload  
+- Reduced system downtime by up to 40 percent  
+- Achieved over 95 percent accuracy in AI data workflows  
+- Built systems used in real operational environments  
+- Automated processes to reduce manual workload  
 
 ---
 
-## IT & Systems
+## Tech Stack
 
-- System troubleshooting and technical support  
-- Infrastructure optimization and performance tuning  
-- Software installation, configuration, and maintenance  
-- Monitoring, diagnostics, and issue resolution  
-- Reliability-focused system improvements  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,react,ts,tailwind,mysql,postgres,mongodb" />
+</p>
 
 ---
 
-## Software Development
+## Live GitHub Activity
 
-- Backend systems and API architecture  
-- Full-stack application development  
-- Database design and management  
-- System integration and performance optimization  
-- Clean, scalable, and maintainable code  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bmcouma&show_icons=true&theme=default" />
+</p>
 
-**Stack**  
-Python, Django, Flask, FastAPI, Node.js  
-React, TypeScript, JavaScript, Tailwind CSS  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmcouma&theme=default" />
+</p>
 
 ---
 
-## AI & Data Systems
+## Contribution Graph
 
-- Data annotation (text, image, video)  
-- Prompt engineering and evaluation  
-- RLHF and model feedback optimization  
-- Data preprocessing and validation pipelines  
-- AI output quality assurance  
-
-**Tools**  
-PyTorch, TensorFlow, Pandas, NumPy, Scikit-learn  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bmcouma/bmcouma/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## Systems Built
 
 - IT system optimization and reliability improvements  
-- Scalable web applications with secure backend services  
-- AI dataset annotation and validation pipelines  
+- Scalable backend systems and APIs  
+- AI dataset annotation pipelines  
 - Automation systems for workflow efficiency  
-
----
-
-## Business Focus
-
-I build systems that solve real operational problems.
-
-- Improve system uptime and reliability  
-- Automate repetitive business processes  
-- Develop scalable digital solutions  
-- Turn data into functional AI systems  
 
 ---
 
 ## Active Work
 
-- System optimization and IT support operations  
-- Backend systems and API development  
+- IT system optimization and support  
+- Backend and API development  
 - Automation tools for business workflows  
-- AI data pipelines and validation systems  
+- AI data pipelines and validation  
 
 ---
 
-## Contact
+## Connect
 
-Email: teklinitechnologies@gmail.com  
-LinkedIn: https://www.linkedin.com/in/bravin-ouma/  
+- Email: teklinitechnologies@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/bravin-ouma/  
 
 ---
 
