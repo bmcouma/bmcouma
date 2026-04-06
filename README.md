@@ -1,91 +1,183 @@
-# Bravin M. Ouma
+<!-- ======================= HEADER / HERO ======================= -->
 
-**IT Professional | Software Developer | AI Systems & Automation Specialist**
-
-I build and deliver systems that work under pressure, automate workflows, and solve real operational problems with precision.
+<h1 align="center">Hi 👋, I'm Bravin M. Ouma</h1>
+<h3 align="center">
+IT Pro | Full-Stack Software Developer | AI Data Training & Automation Specialist
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=00C2FF&center=true&vCenter=true&width=500&lines=Optimizing+IT+Systems;Building+Scalable+Applications;Automating+Workflows;Delivering+AI+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;AI+Data+Training+%26+Annotation+Expert;Full-Stack+Developer+%7C+Automation+Engineer;Delivering+Scalable+%26+Reliable+Solutions" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/bmcouma">
+    <img src="https://komarev.com/ghpvc/?username=bmcouma&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
-## What I Do
+<!-- ======================= ABOUT ======================= -->
 
-- Optimize and support IT systems and infrastructure  
-- Build **scalable backend systems and APIs**  
-- Develop full-stack applications used in production  
-- Create automation pipelines to reduce manual operations  
-- Train and validate AI datasets (NLP, CV, multimodal)  
+## 💫 About Me
 
----
+I build and deliver **intelligent systems** that solve real problems and create measurable impact.
 
-## Impact & Deliverables
+With 4+ years in technology, I specialize in **AI data training, full-stack development, and automation workflows**. I deliver **production-ready systems** that are reliable, scalable, and optimized.
 
-I don’t just work—I **deliver measurable results**:
+I focus on:
+- Precision in AI datasets  
+- Robust system architecture  
+- Efficiency through automation  
 
-- **System Reliability:** Reduced downtime by up to 40% in active production environments  
-- **AI Precision:** Delivered >95% accuracy across AI dataset workflows  
-- **Operational Efficiency:** Automated repetitive tasks, saving hours of manual work weekly  
-- **Scalable Solutions:** Built backend systems and applications handling real users and data  
-- **Execution Focused:** All projects delivered clean, maintainable, and production-ready  
+> *“Code with purpose. Build with clarity. Scale with intelligence.”*
 
 ---
 
-## Tech Stack
+<!-- ======================= WHAT I DO ======================= -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,react,ts,tailwind,mysql,postgres,mongodb" />
-</p>
+## 🚀 What I Do
+
+- Train and validate **AI datasets (NLP, CV, multimodal)**  
+- Deliver **95%+ annotation accuracy** with QA pipelines  
+- Build **scalable full-stack applications**  
+- Develop **automation systems** to reduce manual workload  
+- Optimize IT infrastructure and reduce downtime by up to **40%**  
+- Perform **QA testing, debugging, and system validation**  
 
 ---
 
-## GitHub Stats
+<!-- ======================= AI & DATA EXPERTISE ======================= -->
+
+## 🧠 AI & Data Expertise
+
+- Data annotation (text, image, video)  
+- Video segmentation and labeling  
+- Prompt engineering & evaluation  
+- RLHF & model feedback optimization  
+- Data cleaning, preprocessing, and validation pipelines  
+- AI output quality assurance  
+
+**Frameworks & Libraries**
+- PyTorch, TensorFlow, Scikit-learn  
+- Pandas, NumPy  
+- OpenCV, Hugging Face Transformers  
+- Label Studio, Supervisely  
+
+---
+
+<!-- ======================= FEATURED PROJECTS ======================= -->
+
+## 🚀 Featured Projects
+
+### 🔹 AI Dataset Annotation System
+- Scalable annotation workflows for NLP & CV datasets  
+- Achieved 95%+ accuracy with QA pipelines  
+- Tools: Python, Pandas, Label Studio, Supervisely  
+
+### 🔹 Full-Stack Web Platform
+- Responsive web apps with secure APIs and optimized backend  
+- Stack: React, TypeScript, Django / Flask, PostgreSQL  
+
+### 🔹 Automation & Workflow Engine
+- Automated repetitive tasks, reducing manual effort by 70%  
+- Stack: Python, REST APIs, JSON workflows  
+
+### 🔹 IT Support & Infrastructure Optimization
+- Diagnosed and resolved critical system issues  
+- Reduced downtime by 40%  
+- Optimized infrastructure for production reliability  
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 💻 Tech Stack
+
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend & APIs
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node JS](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express JS](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🧠 AI / ML
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🚀 Deployment Platforms
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/render-430098.svg?style=for-the-badge&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/railway-0B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-1D9FD7.svg?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bmcouma&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmcouma&theme=tokyonight" />
 </p>
 
+---
+
+## 🐍 Contribution Graph
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bmcouma&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://github.com/bmcouma/bmcouma/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## Systems & Solutions
+## 🏆 Achievements
 
-- IT infrastructure optimization and uptime improvements  
-- Scalable backend systems and API design  
-- Full-stack applications for production environments  
-- AI dataset annotation and validation pipelines  
-- Automation workflows for operational efficiency  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bmcouma&theme=radical&no-frame=true&no-bg=true" />
+</p>
 
 ---
 
-## Active Work
+## 🎯 What You Can Expect
 
-- System support, monitoring, and optimization  
-- Backend development and API architecture  
-- Automation and workflow engineering  
-- AI data pipelines and quality validation  
-
----
-
-## Connect
-
-- Email: teklinitechnologies@gmail.com  
-- LinkedIn: [linkedin.com/in/bravin-ouma](https://www.linkedin.com/in/bravin-ouma/)  
-- GitHub: [github.com/bmcouma](https://github.com/bmcouma)  
+- Production-ready, scalable systems  
+- High-accuracy AI datasets  
+- Clean, maintainable code  
+- Strong debugging & optimization  
+- Fast and reliable delivery  
 
 ---
 
-## Philosophy
+## 💼 Open to Work
 
-Reliable systems first.  
-Clean, maintainable code always.  
-Automation where it matters.  
-Solutions that **actually deliver impact**.
+- AI Data Training & Annotation  
+- Full-Stack Development  
+- Automation & AI Integration  
+- IT Support & System Optimization  
+
+---
+
+## 💡 Philosophy
+
+> Building intelligent systems that **scale, solve real problems, and create impact.**
