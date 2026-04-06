@@ -1,8 +1,3 @@
-
-
----
-
-````html
 <h1 align="center">Bravin M. Ouma</h1>
 
 <p align="center">
@@ -43,7 +38,6 @@ SYSTEMS > FEATURES
 RELIABILITY > COMPLEXITY
 AUTOMATION > MANUAL WORK
 IMPACT > ACTIVITY
-````
 
 ---
 
